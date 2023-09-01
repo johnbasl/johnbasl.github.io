@@ -11,6 +11,7 @@ redirect_from:
 
 I'm an associate professor of philosophy in the department of philosophy & religion at Northeastern University and a faculty associate at the Safra Center for Ethics and the Berkman Klein Center for Internet and Society at Harvard University. I work primarily in moral philosophy and applied ethics, especially on issues related to emerging technologies.
 
+<!---Revise this and talk about my role at EI, talk about NIO, soem of my interests--->
 
 
 <!--A data-driven personal website

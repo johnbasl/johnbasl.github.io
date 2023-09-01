@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research and Projects"
 permalink: /research/
 author_profile: true
 ---
@@ -19,4 +19,4 @@ I've tried to answer questions such as:
 
 My book, The Death of the Ethic of Life, is available from Oxford University Press and on Amazon. I've also collaborated on several reports for managing ethical challenges raised by AI and big data analytics which are linked in the images at the top of the page.  
  
-
+<!---Something about NIO and a link here--->
