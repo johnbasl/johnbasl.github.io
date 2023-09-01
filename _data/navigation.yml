@@ -2,6 +2,9 @@
 main:
   - title: "Research"
     url: /research/
+    
+  - title: "CV"
+    url: https://johnbasl.github.io/CV.pdf
    
   #- title: "Publications"
    # url: /publications/
