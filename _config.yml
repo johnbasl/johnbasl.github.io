@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "John Basl"
   avatar           : "profile.png"
-  bio              : "Philosopher@Northeastern"
+  bio              : I'm a philosopher working mostly in the ethics of technology. 
   location         : "Boston, MA"
-  employer         :
+  employer         : "Northeastern University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=SVa6BjgAAAAJ&hl=en"
-  email            :
+  email            : "j.basl@northeastern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/john-basl-696a0915/"
   orcid            : "http://orcid.org/0000-0003-2056-4201"
   pinterest        :
   soundcloud       :
