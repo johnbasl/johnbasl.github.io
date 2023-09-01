@@ -17,3 +17,5 @@ I've tried to answer questions such as:
 - Are laws that prohibit practices like factory farming or animal experimentation legitimate?
 
 My recent book, The Death of the Ethic of Life, is available from Oxford University Press and on Amazon.
+
+You can find my CV here. 
