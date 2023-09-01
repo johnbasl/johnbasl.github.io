@@ -19,3 +19,5 @@ I've tried to answer questions such as:
 My recent book, The Death of the Ethic of Life, is available from Oxford University Press and on Amazon.
 
 You can find my CV here. 
+
+<img src='/images/deathlife.png'>
