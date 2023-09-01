@@ -1,11 +1,12 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "An Ethics Ecosystem for AI and Big Data"
 collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
-date: 2014-03-01
-location: "Los Angeles, CA"
+type: "talk"
+permalink: /talks/ethicsecosystemmatrix
+venue: "Matrix Seminar Series @ UTSA"
+date: 2033-10-14
+location: "San Antonio, Texas"
 ---
+[Click the title for a description of this talk or this link to view the talk on YouTube](https://www.youtube.com/watch?v=Az74EiVRSmc)
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+In this talk, I try to make the case that we need to build a coordinated ethics ecosystem to manage the ethical challenges raised by AI and big data analytics rather than simply adopting tools developed to manage ethical issues developed within alternative ethics ecosystems or built for other contexts. 

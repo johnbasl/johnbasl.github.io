@@ -1,11 +1,13 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "Why Everyone Has It Wrong About the Ethics of Autonomous Vehicles"
 collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
-date: 2014-03-01
-location: "Los Angeles, CA"
+type: "Talk"
+permalink: /talks/avtalktoronto
+venue: "Centre for Ethics at University of Toronto"
+date: 2019-10-08
+location: "Toronto, Ontario, Canada"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+[Click the title for a description or click this link to view the video of the talk on YouTube](https://www.youtube.com/watch?v=ouoxLrPL-XA)
+
+In this talk, Jeff Behrends and I present our work arguing that the relationship between so-called trolley problems and autonomous vehicle accident scenarios is complicated by the ways in which autonomous vehicles rely on machine learning.

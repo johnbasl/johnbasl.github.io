@@ -1,7 +1,7 @@
 ---
 title: "AIs Should Have the Same Ethics Protections as Animals"
 collection: talks
-type: "Article"
+type: "article"
 permalink: /talks/aeon_article
 venue: "Aeon Magazine"
 date: 2019-04-26
