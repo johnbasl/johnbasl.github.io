@@ -3,6 +3,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+[<img src='/images/deathlife.png'>](https://www.amazon.com/Death-Ethic-Life-John-Basl/dp/0190923873) [<img src='/images/committees.png'>](/files/ethicscommittees.pdf) [<img src='/images/committmenttocontent.png'>](/files/operationalization.pdf)
 
 My work is primarily in applied or practical ethics, including the ethics of AI, the ethics of emerging technologies, and environmental ethics. Much of my work uses applied contexts as a tool for reflecting on "deeper" or more theoretical problems in philosophy and ethics or draws on those theoretical resources from various areas of philosophy to resolve practical puzzles.  
 
@@ -16,10 +17,6 @@ I've tried to answer questions such as:
 - What is the relationship between welfare and moral obligation?  
 - Are laws that prohibit practices like factory farming or animal experimentation legitimate?
 
-My book, The Death of the Ethic of Life, is available from Oxford University Press and on Amazon. I've also collaborated on several reports for managing ethical challenges raised by AI and big data analytics. 
+My book, The Death of the Ethic of Life, is available from Oxford University Press and on Amazon. I've also collaborated on several reports for managing ethical challenges raised by AI and big data analytics which are linked in the images at the top of the page.  
  
- 
 
-
-
-[<img src='/images/deathlife.png'>](https://www.amazon.com/Death-Ethic-Life-John-Basl/dp/0190923873) [<img src='/images/committees.png'>](/files/ethicscommittees.pdf) [<img src='/images/committmenttocontent.png'>](/files/operationalization.pdf)
