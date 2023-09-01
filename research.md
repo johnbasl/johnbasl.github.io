@@ -19,9 +19,7 @@ I've tried to answer questions such as:
 My book, The Death of the Ethic of Life, is available from Oxford University Press and on Amazon. I've also collaborated on several reports for managing ethical challenges raised by AI and big data analytics. 
  
  
- |![][(/images/deathlife.png)] (https://www.amazon.com/Death-Ethic-Life-John-Basl/dp/0190923873) <br>|![](images/committee.png)<br>|![](images/committmentocontent.png)<br>|
-|:-:|:-:|:-:|
 
-<!---
-[<img src='/images/deathlife.png'>](https://www.amazon.com/Death-Ethic-Life-John-Basl/dp/0190923873)
---->
+
+
+[<img src='/images/deathlife.png'>](https://www.amazon.com/Death-Ethic-Life-John-Basl/dp/0190923873) <img src='/images/committees.png'> <img src='/images/committmenttocontent.png'>
