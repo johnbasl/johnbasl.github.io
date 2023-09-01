@@ -6,5 +6,5 @@ permalink: /talks/aeon_article
 venue: "Aeon Magazine"
 date: 2019-04-26
 ---
-[AIs Should Have the Same Ethical Protections as Animals] (https://aeon.co/ideas/ais-should-have-the-same-ethical-protections-as-animals)
+[AIs Should Have the Same Ethical Protections as Animals](https://aeon.co/ideas/ais-should-have-the-same-ethical-protections-as-animals)
 In this short article, Eric Schwitzgebel and we should apply the same considerations and oversight to AI research that might yield artificial consciousness as we do for research involving non-human animals. 
