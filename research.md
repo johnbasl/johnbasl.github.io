@@ -22,4 +22,4 @@ My book, The Death of the Ethic of Life, is available from Oxford University Pre
 
 
 
-[<img src='/images/deathlife.png'>](https://www.amazon.com/Death-Ethic-Life-John-Basl/dp/0190923873) <img src='/images/committees.png'> <img src='/images/committmenttocontent.png'>
+[<img src='/images/deathlife.png'>](https://www.amazon.com/Death-Ethic-Life-John-Basl/dp/0190923873) [<img src='/images/committees.png'>] (/files/committees.pdf) [<img src='/images/committmenttocontent.png'>] (/files/operationalization.pdf)
