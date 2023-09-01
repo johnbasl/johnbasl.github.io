@@ -16,8 +16,8 @@ I've tried to answer questions such as:
 - What is the relationship between welfare and moral obligation?  
 - Are laws that prohibit practices like factory farming or animal experimentation legitimate?
 
-My recent book, The Death of the Ethic of Life, is available from Oxford University Press and on Amazon.
+My book, The Death of the Ethic of Life, is available from Oxford University Press and on Amazon. I've also collaborated on several reports for managing ethical challenges raised by AI and big data analytics. 
+ 
+ 
 
-You can find my CV here. 
-
-<img src='/images/deathlife.png'>
+<img src='/images/deathlife.png'>(https://www.amazon.com/Death-Ethic-Life-John-Basl/dp/0190923873)
