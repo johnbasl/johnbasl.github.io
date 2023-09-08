@@ -103,7 +103,6 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/john-basl-696a0915/"
   orcid            : "http://orcid.org/0000-0003-2056-4201"
   pinterest        :
   soundcloud       :
@@ -112,6 +111,7 @@ author:
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
+  linkedin         : "https://www.linkedin.com/in/john-basl-696a0915/"
   mastodon         : "https://fediphilosophy.org/@johnbasl"
   weibo            :
   xing             :
