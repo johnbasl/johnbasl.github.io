@@ -3,9 +3,12 @@ main:
   - title: "CV"
     url: https://johnbasl.github.io/files/CV.pdf
     
-  - title: "Research and Projects"
+  - title: "Research"
     url: /research/
    
+  - title: "Affiliations and Projects"
+    url: /projects/
+    
   #- title: "Publications"
    # url: /publications/
 

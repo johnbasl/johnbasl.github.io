@@ -1,5 +1,5 @@
 ---
-title: "Research and Projects"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
