@@ -24,7 +24,8 @@ Some of my current grant-funded projects include:
 
 
 
-You can find a description of my broader research interests and the questions I've focused on [here](/projects/).  
+You can find a description of my broader research interests and the questions I've focused on [here](/research/).  
+
 [<img src='/images/deathlife.png'>](https://www.amazon.com/Death-Ethic-Life-John-Basl/dp/0190923873) [<img src='/images/committees.png'>](/files/ethicscommittees.pdf) [<img src='/images/committmenttocontent.png'>](/files/operationalization.pdf)
  
 <!---Something about NIO and a link here--->
