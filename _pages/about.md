@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I'm an associate professor of philosophy in the department of philosophy & religion at Northeastern University and a faculty associate at the Safra Center for Ethics and the Berkman Klein Center for Internet and Society at Harvard University. I work primarily in moral philosophy and applied ethics, especially on issues related to emerging technologies.
+I'm a philosopher mostly researching, teaching, and otherwise working in moral philosophy and applied or practical ethics, especially in the area of AI and data ethics. On the one hand, like many or most philosophers, I love taking up deep philosophical puzzles, and in my case that often means thinking about how emerging technologies raise new puzzles or interact with or disrupt existing views and theories. On the other hand, I think the insights, tools, dinstinctions, and concepts of philosophy have a lot to offer for helping to realize the promise of emerging technologies in an ethical way. I try to contribute to that project through interdisciplinary collaborations and learning, attempting to make philosophy accessible and useful, and trying to really understand the technologies and contexts I'm engaged with. 
+
+On this site, you can find out about some of the work I've done, the questions I've tried to help answer, talks and interviews I've given, and projects I work on. If you are interested in a collaboration with myself or with the Ethics Institute, please do reach out. I get a lot of email, but I try to be responsive. 
 
 <!---Revise this and talk about my role at EI, talk about NIO, soem of my interests--->
 
