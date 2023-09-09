@@ -1,7 +1,7 @@
 ---
 title: "Why Everyone Has It Wrong About the Ethics of Autonomous Vehicles"
 collection: talks
-type: "Talk"
+type: "talk"
 permalink: /talks/avtalktoronto
 venue: "Centre for Ethics at University of Toronto"
 date: 2019-10-08

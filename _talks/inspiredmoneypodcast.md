@@ -1,7 +1,7 @@
 ---
 title: "Ethics in the Age of Information and AI"
 collection: talks
-type: "Podcast"
+type: "podcast"
 permalink: /talks/inspiredmoneypodcast
 venue: "Inspired Money with Andrew Wang"
 date: 2019-12-03
