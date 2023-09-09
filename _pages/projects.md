@@ -10,7 +10,6 @@ Some of my current grant-funded projects include:
 
 
 # Affiliations
-
 ## Northeastern
 - Associate Professor, [Department of Philosophy & Religion](https://cssh.northeastern.edu/philosophy/)
 - Associate Director and AI & Data Ethics Lead, [Northeastern Ethics Institute](https://cssh.northeastern.edu/ethics/)
