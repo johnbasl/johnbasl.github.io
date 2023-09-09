@@ -8,13 +8,16 @@ main:
    
   - title: "Affiliations and Projects"
     url: /projects/
-    
-  #- title: "Publications"
-   # url: /publications/
 
   - title: "Media and Talks"
     url: /talks/    
 
+  #- title: "Personal"
+    # url: /personal/
+    
+  #- title: "Publications"
+   # url: /publications/
+   
   #- title: "Teaching"
    # url: /teaching/    
         
@@ -27,5 +30,5 @@ main:
   #- title: "Guide"
     #url: /markdown/
 
-  #- title: "Personal"
+  #- title: "Portfolio"
    # url: /portfolio/
