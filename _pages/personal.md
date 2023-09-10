@@ -8,4 +8,4 @@ author_profile: true
 
 Outside of hobbies, I mostly like to spend time hanging out with my partner, Evelyn, and my dog, Arya. 
 
-[<img width = "300" src='/images/coffeecart.jpg'>](/images/coffeecart.jpg)  [<img width = "300" src='/images/coffee.jpg'>](/images/coffee.jpg) 
+[<img width = "300" src='/images/coffeecart.jpg'>](/images/coffeecart.jpg) [<img width = "300" src='/images/coffee.jpg'>](/images/coffee.jpg) 
