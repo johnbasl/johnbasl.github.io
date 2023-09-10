@@ -4,8 +4,10 @@ permalink: /personal/
 author_profile: true
 ---
 
-[<img align="right" width = "300" src='/images/johnarya.jpg'>](/images/johnarya.jpg) Outside of philosophy, I've collected a bunch of hobbies. Currently, I spend a lot of time learning about, making, and drinking coffee. Previously, I've spent lots of hobby time playing foosball, basketball, hiking, bouldering, and playing video games.
+[<img align="right" width = "300" src='/images/johnarya.jpg'>](/images/johnarya.jpg) Outside of philosophy, I collect hobbies and fall deeply down rabbit holes. I spend a lot of time [learning about](https://www.scottrao.com/the-physics-of-filter-coffee), [making](/images/shot.jpog), and [drinking](/images/coffee.jpg coffee. My office at Northeastern serves as a coffee shop, [Normative Grounds](/images/coffeecart.jpg). If you happen to be a Decent Espresso user, you can find a link to my Visualizer shot database on the left.
 
-Outside of hobbies, I mostly like to spend time hanging out with my partner, Evelyn, and my dog, Arya. 
+In the past, I've spent lots of hobby time on foosball, basketball, lockpicking, hiking, bouldering, straight razors, and video games. I still return to almost all of these here and there (except maintaining and shaving with a straight razor). 
 
-[<img width = "250" src='/images/coffeecart.jpg'>](/images/coffeecart.jpg) [<img width = "250" src='/images/coffee.jpg'>](/images/coffee.jpg)
+I also like to tinker with technology in many forms. 
+
+Outside of hobbies, I mostly like to spend time with my partner, Evelyn, and my dog, Arya. 
