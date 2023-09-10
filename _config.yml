@@ -73,9 +73,10 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "custom" # false (default), "google", "google-universal", "custom"
+  provider  :  "google-universal"
+  provider  :  "custom" # false (default), "google", "google-universal", "custom"
   google:
-    measurement_id       :  "G-8WS5GPZ2E3"
+    measurement_id       :  #"G-8WS5GPZ2E3"
     anonymize_ip         : #true, false (Default)
 
 
