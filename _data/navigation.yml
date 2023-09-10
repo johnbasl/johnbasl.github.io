@@ -12,8 +12,8 @@ main:
   - title: "Media and Talks"
     url: /talks/    
 
-  #- title: "Personal"
-    # url: /personal/
+  - title: "Personal"
+     url: /personal/
     
   #- title: "Publications"
    # url: /publications/
