@@ -13,4 +13,4 @@ Below are some links to schedule meetings with me. I try to be good about my cal
 
 [1-hour Virtual Meeting](https://calendly.com/johnbasl/zoom-meeting-with-john)
 
-Pleae note: if you've somehow stumbled upon this page via internet search or some other means, this is not intended as a public meeting scheduler. If you'd like to meet me but weren't directed to this page by me, please send me an email to chat about a potential meeting.
+Please note: if you've somehow stumbled upon this page via internet search or some other means, this is not intended as a public meeting scheduler. If you'd like to meet me but weren't directed to this page by me, please send me an email to chat about a potential meeting.
